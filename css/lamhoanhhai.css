@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+*{
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+
+    font-family: 'Roboto', sans-serif ;
+    font-size: 14px;
+
+    font-weight: 400;
+    line-height: 1.35;
+}
+
+li{
+    list-style: none;
+}
+img{
+    max-width: 100%;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.conternor{
+    width: 1200px;
+    float: none;
+    margin: 0 auto;
+}
+.menu i{
+    font-size: 50px;
+}
+.menu p{
+    font-size: 20px;
+}
+.menu {
+    margin: 5px 30px;
+}
+.menu .bx-cheese{
+    margin: 0px 40px;
+}
+header .conternor{
+    border: 2px solid black;
+
+}
+nav .conternor{
+    border: 2px solid black;
+height: 900px;
+}
+section {
+    height: 1000px;
+
+}
+.box{
+    float: right;
+    margin: -30px 400px;
+
+    height: 50px;
+}
+input{
+    border-radius: 90px;
+    height: 40px;
+    width: 400px;
+    padding: 20px;
+}
+.socola h1{
+    margin: 70px 30px;
+}
+.vanila h1{
+    margin: 70px 30px;
+}
+.banh1 i{
+    font-size: 150px;
+}
+.banh1{
+    border: 3px solid black;
+    width: 220px;
+    float: left;
+    margin: -70px 30px;
+}
+.banh1 p{
+    width: 150px;
+    text-align: left;
+    padding: 15px;
+}
+nav{
+    height: 400px;
+}
+.home {
+    margin: -200px 30px;
+}
+a{
+    color: black;
+    font-weight: 700;
+}
+section .conternor{
+    border: 2px solid black;
+    height: 800px;
+}
+
+
